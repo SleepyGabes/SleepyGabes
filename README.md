@@ -1,7 +1,7 @@
 ## 👋 Hi there! My name is Gabe but I also go by Speed.
 
 - 🔭 I’m currently working on a disclosed project at the moment.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning about Cloud Computing.
 - 🎓 Doing the Computer Science Foundation Course from Ulster University.
 - 📫 How to reach me: Discord: spgabe1558 or Email: lalucigabriel@gmail.com.
 - 🌍 My timezone is GMT.
@@ -9,9 +9,16 @@
 - ⚡ Fun fact: I speak Romanian and English.
 - ✅ Polished repositories: AutoFollow.
 
-## Rookie Skills
-- ⚙ C#, Python & Java
-- 🛠 Visual Studio, PyCharm, IntelliJ
+## Programming Languages
+- ⚙ C#
+- 🐍 Python
+- ☕ Java
+
+## IDEs
+- Visual Studio
+- PyCharm
+- IntelliJ
+- VS Code
 
 ## GitHub Stats
 [![SPG's GitHub stats](https://github-readme-stats.vercel.app/api?username=spg1558&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
